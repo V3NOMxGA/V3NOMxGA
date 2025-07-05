@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Aswal
-- 👀 I’m interested devlopin new things
+- 👀 I’m interested Devloping new things
 - 🌱 I’m currently learning new skills
 - 📫 How to reach me gauravaswal743@gmail.com
 
