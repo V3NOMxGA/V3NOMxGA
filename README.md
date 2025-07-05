@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @V3NOMxGA
-- 👀 I’m interested in cyber security or hacking
+- 👋 Hi, I’m Gaurav Aswal
+- 👀 I’m interested devlopin new things
 - 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me gauravaswal743@gmail.com
+
 
 <!---
 V3NOMxGA/V3NOMxGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
